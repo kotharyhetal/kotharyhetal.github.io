@@ -1,4 +1,17 @@
-
+<style>
+  .pill {
+    display: inline-block;
+    padding: 2px 12px;
+    border-radius: 15px;
+    color: white !important;
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  .blue { background-color: #0078d4; }
+  .purple { background-color: #743ad5; }
+  .green { background-color: #107c10; }
+</style>
 
 # Hetal Kothari | Cloud Engineer
 
