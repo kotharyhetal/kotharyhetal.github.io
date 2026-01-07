@@ -1,4 +1,4 @@
-<img src="YOUR_FILE_NAME.jpg" width="150" style="border-radius: 50%;" alt="Hetal Kothari">
+
 **Hetal Kothari | Cloud Engineer Portfolio**
 About Me
 I am a Cloud Engineer learned to build and manage scalable infrastructure. This portfolio showcases my technical skills and projects.
