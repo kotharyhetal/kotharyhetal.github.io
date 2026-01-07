@@ -7,7 +7,7 @@
     text-align: left !important;
     padding: 2rem 1rem !important;
   }
-
+  body { background: url('download.jpg') no-repeat center center fixed; background-size: cover; }
   .header-profile-pic {
     width: 150px !important;
     height: 150px !important;
