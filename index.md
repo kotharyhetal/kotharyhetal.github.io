@@ -49,6 +49,7 @@ body {
   padding: 20px;
   border-radius: 15px;
 }
+
 [About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
 
 ## About Me
