@@ -1,5 +1,4 @@
 <style>
-  /* Target the Cayman Header */
   .page-header {
     display: flex !important;
     flex-direction: row !important;
@@ -7,31 +6,20 @@
     justify-content: center !important;
     text-align: left !important;
     padding: 2rem 1rem !important;
-    color: #000000 !important; /* Forces black font */
   }
 
-  /* Styling and Enlargin the Profile Pic next to name */
   .header-profile-pic {
-    width: 150px !important; /* Enlarged size */
+    width: 150px !important;
     height: 150px !important;
     border-radius: 50%;
     border: 4px solid #ffffff;
-    margin-right: 30px; /* Space between pic and name */
+    margin-right: 30px;
     object-fit: cover;
   }
 
-  .project-name {
-    color: #000000 !important;
-    font-size: 2.5rem !important;
-    margin: 0 !important;
-  }
+  .project-name { font-size: 2.5rem !important; margin: 0 !important; }
+  .project-tagline { margin: 0 !important; opacity: 0.9; }
 
-  .project-tagline {
-    color: #333333 !important;
-    margin: 0 !important;
-  }
-
-  /* Keeping your skill pills */
   .pill {
     display: inline-block;
     padding: 2px 12px;
@@ -39,12 +27,72 @@
     color: white !important;
     font-size: 13px;
     font-weight: bold;
-    margin-right: 5px;
+    margin: 2px;
   }
   .blue { background-color: #0078d4; }
   .purple { background-color: #743ad5; }
   .green { background-color: #107c10; }
 </style>
+
+<div class="page-header">
+  <img src="Hetalkothari.jpeg" class="header-profile-pic" alt="Hetal Kothari">
+  <div>
+    <h1 class="project-name">Hetal Kothari</h1>
+    <h2 class="project-tagline">Cloud Support Engineer</h2>
+  </div>
+</div>
+
+[About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
+
+---
+
+## About Me
+Cloud Support Engineer specializing in designing and managing scalable, high-availability infrastructure across **AWS** and **Microsoft Azure**. Expertise in bridging the gap between traditional cloud architecture and **Generative AI** to enhance user experiences.
+
+---
+
+## Skills
+* **Cloud Platforms:** <span class="pill blue">AWS</span> <span class="pill blue">Microsoft Azure</span> <span class="pill blue">App Service</span> <span class="pill blue">AKS</span> <span class="pill blue">Front Door</span>
+* **AI/ML:** <span class="pill purple">Azure OpenAI (LLMs)</span> <span class="pill purple">Azure AI Search</span> <span class="pill purple">GenAI Integration</span>
+* **Security & Compliance:** <span class="pill green">Azure WAF</span> <span class="pill green">Key Vault</span> <span class="pill green">SQL TDE Encryption</span> <span class="pill green">SSL/TLS</span>
+* **Infrastructure & DevOps:** <span class="pill blue">Kubernetes</span> <span class="pill blue">Auto-scaling</span> <span class="pill blue">Git/GitHub</span> <span class="pill blue">Microservices</span>
+
+---
+
+## Projects
+### Featured: AI-Assisted Luxury E-Commerce
+* **Architected and deployed** a high-performance e-commerce platform on Azure specifically designed for the luxury retail market.
+* **Integrated Generative AI** using Azure OpenAI to provide personalized shopping experiences.
+* **Orchestrated Scalability** by utilizing Azure Kubernetes Service (AKS) and Horizontal Auto-scaling.
+* **Hardened System Security** by implementing Azure WAF and Key Vault.
+
+**Project Link**: [Luxury E-Commerce](https://hetalkothari.pythonanywhere.com/)  
+**LinkedIn**: [Hetal Kothari](https://www.linkedin.com/in/hetal-kothari-104a31274/)
+
+[About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
+
+---
+
+## About Me
+Cloud Support Engineer specializing in designing and managing scalable, high-availability infrastructure across **AWS** and **Microsoft Azure**. Expertise in bridging the gap between traditional cloud architecture and **Generative AI**.
+
+---
+
+## Skills
+* **Cloud Platforms:** <span class="pill blue">AWS</span> <span class="pill blue">Microsoft Azure</span> <span class="pill blue">AKS</span>
+* **AI/ML:** <span class="pill purple">Azure OpenAI</span> <span class="pill purple">Azure AI Search</span>
+* **Security:** <span class="pill green">Azure WAF</span> <span class="pill green">SSL/TLS</span>
+
+---
+
+## Projects
+### AI-Assisted Luxury E-Commerce
+* **Architected and deployed** a high-performance e-commerce platform on Azure.
+* **Integrated Generative AI** using Azure OpenAI for personalized shopping.
+* **Orchestrated Scalability** by utilizing Azure Kubernetes Service (AKS).
+
+**Project Link**: [Luxury E-Commerce](https://hetalkothari.pythonanywhere.com/)
+**LinkedIn**: [Hetal Kothari](https://www.linkedin.com/in/hetal-kothari-104a31274/)
 # Hetal Kothari | Cloud Engineer
 
 [About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
