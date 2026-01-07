@@ -47,5 +47,5 @@ Security & Compliance: Secured the environment using Azure WAF, Key Vault, and T
 Reliability: Engineered the system for high availability using Azure Front Door and redundancy planning.
 
 **Project** : https://hetalkothari.pythonanywhere.com/
-**Linkedin** :  https://www.linkedin.com/in/hetal-kothari-104a31274/
+**Linkedin** : https://www.linkedin.com/in/hetal-kothari-104a31274/
 
