@@ -68,6 +68,8 @@ Proven track record in implementing robust DevOps and security frameworks, inclu
 * **Integrated Generative AI** using Azure OpenAI for personalized shopping.
 * **Orchestrated Scalability** by utilizing Azure Kubernetes Service (AKS).
 
-**Project Link**: https://hetalkothari.pythonanywhere.com/
+**Project Link**: (https://hetalkothari.pythonanywhere.com/)  
 
-**LinkedIn**: https://www.linkedin.com/in/hetal-kothari-104a31274/
+**LinkedIn**: [Hetal Kothari Profile](https://www.linkedin.com/in/hetal-kothari-104a31274/)
+
+
