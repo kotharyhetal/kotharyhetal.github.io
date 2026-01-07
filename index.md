@@ -1,26 +1,37 @@
 <style>
-  /* 1. Forces the Header text to be BLACK */
+  /* Target the Cayman Header */
   .page-header {
-    color: #000000 !important;
-    text-shadow: none !important;
-    background-color: #f8f9fa !important; /* Optional: light gray background so black text is easy to read */
-    padding: 3rem 1rem !important;
-  }
-  .project-name, .project-tagline {
-    color: #000000 !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: left !important;
+    padding: 2rem 1rem !important;
+    color: #000000 !important; /* Forces black font */
   }
 
-  /* 2. Forces the Profile Picture to be LARGE */
-  .profile-pic {
-    width: 200px !important;
-    height: auto;
+  /* Styling and Enlargin the Profile Pic next to name */
+  .header-profile-pic {
+    width: 150px !important; /* Enlarged size */
+    height: 150px !important;
     border-radius: 50%;
-    border: 4px solid #107c10; /* Azure Green border */
-    display: block;
-    margin: 0 auto 20px auto;
+    border: 4px solid #ffffff;
+    margin-right: 30px; /* Space between pic and name */
+    object-fit: cover;
   }
 
-  /* 3. Skill Pills Styling */
+  .project-name {
+    color: #000000 !important;
+    font-size: 2.5rem !important;
+    margin: 0 !important;
+  }
+
+  .project-tagline {
+    color: #333333 !important;
+    margin: 0 !important;
+  }
+
+  /* Keeping your skill pills */
   .pill {
     display: inline-block;
     padding: 2px 12px;
@@ -29,15 +40,11 @@
     font-size: 13px;
     font-weight: bold;
     margin-right: 5px;
-    margin-bottom: 5px;
   }
   .blue { background-color: #0078d4; }
   .purple { background-color: #743ad5; }
   .green { background-color: #107c10; }
 </style>
-
-<img src="Hetalkothari.jpeg" class="profile-pic">
-
 # Hetal Kothari | Cloud Engineer
 
 [About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
