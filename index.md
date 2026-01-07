@@ -1,4 +1,20 @@
+<img src="Hetalkothari.jpg" width="150" style="border-radius: 50%;" alt="Hetal Kothari">
 
+# Hetal Kothari | Cloud Engineer
+
+[About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
+
+---
+
+## About Me
+
+I am a Cloud Engineer focused on building and managing scalable infrastructure.
+
+## Technical Skills
+
+* **Cloud Platforms:** AWS & Microsoft Azure
+* **AI/ML:** Azure OpenAI Services
+* **Security:** Azure WAF, SSL/TLS Encryption
 **Hetal Kothari | Cloud Support Engineer**
 
 About Me
