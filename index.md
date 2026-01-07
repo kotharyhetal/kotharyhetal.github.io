@@ -1,4 +1,4 @@
-<img src="Hetalkothari.jpeg" width="150" style="border-radius: 50%;" alt="Hetal Kothari">
+
 
 # Hetal Kothari | Cloud Engineer
 
