@@ -34,6 +34,21 @@
   .green { background-color: #107c10; }
 </style>
 
+/* This sets the watercolor image as the body background */
+body {
+  background-image: url('download.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Adds a semi-transparent white layer so your text remains easy to read */
+.main-content {
+  background-color: rgba(255, 255, 255, 0.85); 
+  padding: 20px;
+  border-radius: 15px;
+}
 [About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
 
 ## About Me
