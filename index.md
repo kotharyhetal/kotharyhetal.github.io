@@ -34,18 +34,6 @@
   .green { background-color: #107c10; }
 </style>
 
-<div class="page-header">
-  <img src="Hetalkothari.jpeg" class="header-profile-pic" alt="Hetal Kothari">
-  <div>
-    <h1 class="project-name">Hetal Kothari</h1>
-    <h2 class="project-tagline">Cloud Support Engineer</h2>
-  </div>
-</div>
-
-/* Hides the default Cayman theme header to stop the doubling */
-header.page-header {
-  display: none !important;
-}
 [About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
 
 ## About Me
