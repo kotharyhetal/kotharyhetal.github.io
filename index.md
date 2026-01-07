@@ -34,8 +34,7 @@
   .green { background-color: #107c10; }
 </style>
 
-/* This sets the watercolor image as the body background */
-body {
+ {
   background-image: url('download.jpg');
   background-size: cover;
   background-attachment: fixed;
