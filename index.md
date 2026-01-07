@@ -4,49 +4,36 @@
 
 [About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
 
----
+**Professional Summary**
+Cloud Support Engineer specializing in designing and managing scalable, high-availability infrastructure across AWS and Microsoft Azure.
 
-## About Me
+Expertise in bridging the gap between traditional cloud architecture and Generative AI to enhance user experiences.
 
-I am a Cloud Engineer focused on building and managing scalable infrastructure.
+Proven track record in implementing robust DevOps and security frameworks, including WAF, SSL/TLS, and automated scaling.
 
-## Technical Skills
+**Technical Core Competencies**
+Cloud Platforms: AWS & Microsoft Azure (App Service, AKS, Front Door, Networking).
 
-* **Cloud Platforms:** AWS & Microsoft Azure
-* **AI/ML:** Azure OpenAI Services
-* **Security:** Azure WAF, SSL/TLS Encryption
-**Hetal Kothari | Cloud Support Engineer**
+AI/ML: Azure OpenAI Services (LLMs), Azure AI Search, and Generative AI integration.
 
-About Me
-I am a Cloud support Engineer learned to build and manage scalable infrastructure. This portfolio showcases my technical skills and projects.
+Security & Compliance: Azure WAF, Key Vault, SQL TDE Encryption, and SSL/TLS management.
 
-**Technical Skills**
-Cloud Platforms: AWS & Microsoft Azure (App Service, AKS, Front Door).
+Infrastructure & DevOps: Kubernetes (AKS), Horizontal Pod Autoscaling, Git/GitHub, and Microservices architecture.
 
-AI/ML: Azure OpenAI Services (GenAI), Azure AI Search.
+Database Management: Secure SQL Database administration with end-to-end encryption.
 
-DevOps & Security: Git & GitHub, Horizontal Auto-scaling, Azure WAF, SSL/TLS Encryption.
+**Featured Project: AI-Assisted Luxury E-Commerce**
+Architected and deployed a high-performance e-commerce platform on Azure specifically designed for the luxury retail market.
 
-Architecture: Microservices, Cloud Architecture, Virtualization, Networking.
+Integrated Generative AI using Azure OpenAI to provide "white-glove" personalized shopping experiences and intelligent recommendations.
 
-Databases: SQL Database with TDE Encryption.
+Orchestrated Scalability by utilizing Azure Kubernetes Service (AKS) and Horizontal Auto-scaling to maintain performance during traffic surges.
 
-Featured Project: AI-Assisted Luxury E-Commerce System
-Platform: Microsoft Azure
+Hardened System Security by implementing Azure WAF and Key Vault, ensuring the protection of high-value customer data.
 
-Description: Designed and deployed a high-performance, scalable e-commerce platform tailored for the luxury retail market. This system bridges the "human touch" gap in digital retail by integrating Generative AI for personalized "white-glove" shopping experiences.
+Optimized Global Delivery and reliability through Azure Front Door, ensuring low-latency access and high availability.
 
-**Key Achievements**:
-
-Scalable Infrastructure: Leveraged Azure Kubernetes Service (AKS) and Horizontal Auto-scaling to manage high traffic loads.
-
-AI Integration: Implemented Azure OpenAI and Azure AI Search to provide real-time, intelligent product recommendations.
-
-Security & Compliance: Secured the environment using Azure WAF, Key Vault, and TDE Encryption for SQL databases to protect sensitive customer data.
-
-Reliability: Engineered the system for high availability using Azure Front Door and redundancy planning.
-
-**Project** : https://hetalkothari.pythonanywhere.com/
-
+**Project** : https://sctpcsd06.slack.com/archives/D09P864GLTX/p1764307881623869
+ 
 **Linkedin** : https://www.linkedin.com/in/hetal-kothari-104a31274/
 
