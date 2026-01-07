@@ -1,6 +1,6 @@
-**Hetal Kothary | Cloud Engineer Portfolio**
+**Hetal Kothari | Cloud Engineer Portfolio**
 About Me
-I am a Cloud Engineering student learning to build and manage scalable infrastructure. This portfolio showcases my technical skills and projects.
+I am a Cloud Engineer learned to build and manage scalable infrastructure. This portfolio showcases my technical skills and projects.
 **Technical Skills**
 Cloud Platforms: AWS & Microsoft Azure (App Service, AKS, Front Door).
 
