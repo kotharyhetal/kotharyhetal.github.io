@@ -32,6 +32,7 @@
   .blue { background-color: #0078d4; }
   .purple { background-color: #743ad5; }
   .green { background-color: #107c10; }
+  .main-content, p, li, h1, h2, h3 { color: #000000 !important; background: rgba(255, 255, 255, 0.7); }
 </style>
 
 [About Me](#about-me) | [Skills](#skills) | [Projects](#projects)
