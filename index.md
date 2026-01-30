@@ -18,8 +18,26 @@
     object-fit: cover;
   }
 
-  .project-name { font-size: 2.5rem !important; margin: 0 !important; line-height: 1.05 !important; }
-  .project-tagline { margin: 0 !important; margin-top: 0.25rem !important; line-height: 1.1 !important; opacity: 0.9; }
+  .project-name {
+    font-size: 2.5rem !important;
+    margin: 0 !important;
+    line-height: 1.05 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 15px;
+    flex-wrap: wrap;
+  }
+
+  .project-name img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .project-tagline { margin: 0 !important; margin-top: 0.35rem !important; line-height: 1.1 !important; opacity: 0.9; }
 
   .pill {
     display: inline-block;
