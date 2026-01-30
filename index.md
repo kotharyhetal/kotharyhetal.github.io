@@ -1,10 +1,10 @@
 <style>
   .page-header {
     display: flex !important;
-    flex-direction: row !important;
+    flex-direction: column !important;
     align-items: center !important;
     justify-content: center !important;
-    text-align: left !important;
+    text-align: center !important;
     padding: 2rem 1rem !important;
   }
   body { background: url('images.jpg') no-repeat center center fixed; background-size: cover; }
@@ -13,7 +13,8 @@
     height: 150px !important;
     border-radius: 50%;
     border: 4px solid #ffffff;
-    margin-right: 30px;
+    margin-right: 0;
+    margin-bottom: 15px;
     object-fit: cover;
   }
 
