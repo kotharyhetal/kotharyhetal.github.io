@@ -1,6 +1,6 @@
 
 theme: jekyll-theme-cayman
 
-title: <img src="Hetalkothari.jpeg" width="140" style="border-radius:50%; vertical-align:middle; margin-right:15px;"> Hetal Kothari | Portfolio
+title: <img src="Hetalkothari.jpeg" width="140" style="border-radius:50%; vertical-align:bottom; margin-right:15px; display:inline-block;"> Hetal Kothari | Portfolio
 
 description: Cloud Support & DevOps Engineer

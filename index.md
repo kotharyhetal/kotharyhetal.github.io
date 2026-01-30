@@ -18,8 +18,8 @@
     object-fit: cover;
   }
 
-  .project-name { font-size: 2.5rem !important; margin: 0 !important; }
-  .project-tagline { margin: 0 !important; opacity: 0.9; }
+  .project-name { font-size: 2.5rem !important; margin: 0 !important; line-height: 1.05 !important; }
+  .project-tagline { margin: 0 !important; margin-top: 0.25rem !important; line-height: 1.1 !important; opacity: 0.9; }
 
   .pill {
     display: inline-block;
