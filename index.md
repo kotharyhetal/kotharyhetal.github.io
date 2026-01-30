@@ -21,14 +21,14 @@
   .project-name {
     font-size: 2.5rem !important;
     margin: 0 !important;
-    line-height: 1.05 !important;
+    line-height: 1.02 !important;
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
     gap: 15px;
     flex-wrap: wrap;
     background: rgba(255, 255, 255, 0.7) !important;
-    padding: 0.75rem 1.25rem 0.25rem !important;
+    padding: 0.75rem 1.25rem 0.1rem !important;
     border-radius: 10px 10px 0 0 !important;
   }
 
@@ -43,10 +43,10 @@
   .project-tagline {
     margin: 0 !important;
     margin-top: 0 !important;
-    line-height: 1.1 !important;
+    line-height: 1.05 !important;
     opacity: 0.9;
     background: rgba(255, 255, 255, 0.7) !important;
-    padding: 0 1.25rem 0.75rem !important;
+    padding: 0 1.25rem 0.6rem !important;
     border-radius: 0 0 10px 10px !important;
     display: inline-block;
   }
